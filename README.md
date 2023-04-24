@@ -1,6 +1,6 @@
 # Card-Game
 
-### Game of Strategy:
+## Game of Strategy:
 1.	There is one server and 3 clients, and everyone has a specific suit of cards.
 2.	Server randomly decides the points for each round.
 3.	And the clients wager their cards against each other for points.
