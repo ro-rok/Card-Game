@@ -26,4 +26,4 @@ pip install tabulate
 
 [Rohan Khanna](https://github.com/ro-rok)\
 [Utakarsh Aggarwal](https://github.com/UtakarshAgg)\
-[Abhishek Gajul](https://github.com/was-abhi)
+[Abhishek Gajul](https://github.com/was-abi)
