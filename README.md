@@ -15,7 +15,7 @@ pip install tabulate
 2. Run the server and client files separately.
 3. Choose whether to play an automated or manual game for each client.
 4. The game runs for 13 rounds, and the final scores are declared.
-?style=for-the-badge&logo=appveyor
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Team Members
 
 [Rohan Khanna](https://github.com/ro-rok)\
