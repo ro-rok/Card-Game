@@ -26,6 +26,7 @@ client_socket.send(SUIT.encode())
 data = client_socket.recv(1024).decode()
 print(data)
 
+# Prompt regarding game automation
 while True:
   try:
     automated = int(
